@@ -1,4 +1,6 @@
-source 'https://rubygems.org'
+source 'https://gems.ruby-china.com'
+
+gem "securerandom", "< 0.4.1"
 
 group :jekyll_plugins do
   gem 'jekyll'
@@ -11,3 +13,5 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+gem "minima", ">= 0", group: :jekyll_plugins, require: false
+gem 'tzinfo-data'
