@@ -1,26 +1,28 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+# 🕶About Me
+
 Hello!  
 I'm an undergraduate student in Computer Science and Technology at South China Normal University. My current research focuses on graph knowledge distillation, advised by Prof. [Zhenhua Huang](https://www.scholat.com/jukiehuang). My research interests include graph learning and natural language processing.
 
-# Education
+# 🎓Education
 
 - 2022.09-2026.06, B.Sc., South China Normal University. Supervisor: Prof. [Zhenhua Huang](https://www.scholat.com/jukiehuang).
 
-# Honors
+# 👑Honors
 
 - 2025.05, Zheng Geru Scholarship, Second Prize
 - 2025.03, South China Normal University Scholarship, Second Prize
 - 2025.03, South China Normal University Undergraduate Innovation Scholarship, Second Prize
 
-# Awards
+# 🏆Awards
 
 - 2025.05, Group Programming Ladder Tournament, National Second Prize
 - 2024.12, Guangdong Provincial Cybersecurity Attack and Defense Competition, Provincial Third Prize
