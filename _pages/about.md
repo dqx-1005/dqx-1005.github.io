@@ -29,4 +29,4 @@ I'm an undergraduate student in Computer Science and Technology at South China N
 - 2024.09, Guangdong Provincial Collegiate Computing Competition, Provincial Second Prize
 - 2024.08, RoboCom, National Second Prize
 - 2024.05, Guangdong Provincial Blue Bridge Cup Software Competition,Provincial First Prize
-- 2023.12, Qiangwang Cup National Cyber Security Challenge, Qiangwang Pioneer(Top 10%)
+- 2023.12, Qiangwang Cup National Cyber Security Challenge, Qiangwang Pioneer(Top 1%)
