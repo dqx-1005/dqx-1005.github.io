@@ -18,15 +18,15 @@ I'm an undergraduate student in Computer Science and Technology at South China N
 
 # 👑Honors
 
-- 2025.05, Zheng Geru Scholarship, Second Prize
-- 2025.03, South China Normal University Scholarship, Second Prize
-- 2025.03, South China Normal University Undergraduate Innovation Scholarship, Second Prize
+- Zheng Geru Scholarship, Second Prize
+- South China Normal University Scholarship, Second Prize
+- South China Normal University Undergraduate Innovation Scholarship, Second Prize
 
 # 🏆Awards
 
-- 2025.05, Group Programming Ladder Tournament, National Second Prize
-- 2024.12, Guangdong Provincial Cybersecurity Attack and Defense Competition, Provincial Third Prize
-- 2024.09, Guangdong Provincial Collegiate Computing Competition, Provincial Second Prize
-- 2024.08, RoboCom, National Second Prize
-- 2024.05, Guangdong Provincial Blue Bridge Cup Software Competition,Provincial First Prize
-- 2023.12, Qiangwang Cup National Cyber Security Challenge, Qiangwang Pioneer(Top 1%)
+- Group Programming Ladder Tournament, National Second Prize
+- Guangdong Provincial Cybersecurity Attack and Defense Competition, Provincial Third Prize
+- Guangdong Provincial Collegiate Computing Competition, Provincial Second Prize
+- RoboCom, National Second Prize
+- Guangdong Provincial Blue Bridge Cup Software Competition,Provincial First Prize
+- Qiangwang Cup National Cyber Security Challenge, Qiangwang Pioneer(Top 1%)
